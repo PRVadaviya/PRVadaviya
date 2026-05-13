@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently working on **MERN Stack Development**
+- 🌱 Currently working as **Data Engineer**
 - 📫 Reach me at: **patelpratik1246@gmail.com**
 
 ---
