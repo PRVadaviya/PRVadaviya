@@ -31,7 +31,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,postgres,java,git,postman,spring" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,postgres,java,python,git,postman,spring" />
 </p>
 
 
